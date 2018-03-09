@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
-
+* [EgyXPod](README.md)
+* [Batteries](Batteries.md)

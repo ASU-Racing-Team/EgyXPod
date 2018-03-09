@@ -1,1 +1,2 @@
-Blog for documenting the work of EgyXPod SpaceX Hyperloop team.
+# EgyXPod
+We are a team from Ain Shams University participating in SpaceX Hyperloop competition 2017
